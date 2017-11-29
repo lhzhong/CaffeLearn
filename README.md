@@ -1,1 +1,1 @@
-![Image text](https://raw.githubusercontent.com/lhzhong/kth_action_recognition/master/result/KTH(AlexNet).png)
+![Image text](https://github.com/lhzhong/kth_action_recognition/blob/master/resut/KTH(AlexNet).png)

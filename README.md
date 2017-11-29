@@ -1,6 +1,6 @@
-### Dependencies
+### Dependencies(GTX1080)
 
-Ubuntu16.06+Caffe+opevcv2.4.9+Anaconda2<br>
+Ubuntu16.06+Caffe+Anaconda2+opevcv2.4.9
 
 ### Result
 

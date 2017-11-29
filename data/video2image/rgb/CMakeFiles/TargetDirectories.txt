@@ -1,0 +1,3 @@
+/home/cpss/caffe/zhong/caffe_zhong/video2image/rgb/CMakeFiles/rebuild_cache.dir
+/home/cpss/caffe/zhong/caffe_zhong/video2image/rgb/CMakeFiles/RGB.dir
+/home/cpss/caffe/zhong/caffe_zhong/video2image/rgb/CMakeFiles/edit_cache.dir

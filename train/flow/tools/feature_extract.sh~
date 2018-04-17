@@ -1,4 +1,0 @@
-#!/usr/bin/env sh 
-set -e
-
-./build/tools/extract_features.bin mytest/KTH/model_iter_50000.caffemodel mytest/KTH/deploy.prototxt conv5 mytest/KTH_conv5 100 lmdb CPU
